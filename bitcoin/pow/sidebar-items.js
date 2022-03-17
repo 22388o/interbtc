@@ -1,0 +1,1 @@
+initSidebarItems({"constant":[["TARGET_TIMESPAN","Target Timespan: 2 weeks (1209600 seconds)"],["TARGET_TIMESPAN_DIVISOR","Used in Bitcoin’s retarget algorithm"],["UNROUNDED_MAX_TARGET","Unrounded Maximum Target 0x00000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF"]],"fn":[["calculate_next_work_required",""]]});

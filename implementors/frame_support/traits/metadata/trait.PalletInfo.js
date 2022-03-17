@@ -1,0 +1,6 @@
+(function() {var implementors = {};
+implementors["interbtc_runtime_standalone"] = [{"text":"impl PalletInfo for <a class=\"struct\" href=\"interbtc_runtime_standalone/struct.PalletInfo.html\" title=\"struct interbtc_runtime_standalone::PalletInfo\">PalletInfo</a>","synthetic":false,"types":["interbtc_runtime_standalone::PalletInfo"]}];
+implementors["interlay_runtime_parachain"] = [{"text":"impl PalletInfo for <a class=\"struct\" href=\"interlay_runtime_parachain/struct.PalletInfo.html\" title=\"struct interlay_runtime_parachain::PalletInfo\">PalletInfo</a>","synthetic":false,"types":["interlay_runtime_parachain::PalletInfo"]}];
+implementors["kintsugi_runtime_parachain"] = [{"text":"impl PalletInfo for <a class=\"struct\" href=\"kintsugi_runtime_parachain/struct.PalletInfo.html\" title=\"struct kintsugi_runtime_parachain::PalletInfo\">PalletInfo</a>","synthetic":false,"types":["kintsugi_runtime_parachain::PalletInfo"]}];
+implementors["testnet_runtime_parachain"] = [{"text":"impl PalletInfo for <a class=\"struct\" href=\"testnet_runtime_parachain/struct.PalletInfo.html\" title=\"struct testnet_runtime_parachain::PalletInfo\">PalletInfo</a>","synthetic":false,"types":["testnet_runtime_parachain::PalletInfo"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

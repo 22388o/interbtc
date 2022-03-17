@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["testnet_runtime_parachain"] = [{"text":"impl WeightTrader for <a class=\"struct\" href=\"testnet_runtime_parachain/struct.FreeTestExection.html\" title=\"struct testnet_runtime_parachain::FreeTestExection\">FreeTestExection</a>","synthetic":false,"types":["testnet_runtime_parachain::FreeTestExection"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

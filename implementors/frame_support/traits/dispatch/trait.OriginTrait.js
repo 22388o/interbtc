@@ -1,0 +1,6 @@
+(function() {var implementors = {};
+implementors["interbtc_runtime_standalone"] = [{"text":"impl OriginTrait for <a class=\"struct\" href=\"interbtc_runtime_standalone/struct.Origin.html\" title=\"struct interbtc_runtime_standalone::Origin\">Origin</a>","synthetic":false,"types":["interbtc_runtime_standalone::Origin"]}];
+implementors["interlay_runtime_parachain"] = [{"text":"impl OriginTrait for <a class=\"struct\" href=\"interlay_runtime_parachain/struct.Origin.html\" title=\"struct interlay_runtime_parachain::Origin\">Origin</a>","synthetic":false,"types":["interlay_runtime_parachain::Origin"]}];
+implementors["kintsugi_runtime_parachain"] = [{"text":"impl OriginTrait for <a class=\"struct\" href=\"kintsugi_runtime_parachain/struct.Origin.html\" title=\"struct kintsugi_runtime_parachain::Origin\">Origin</a>","synthetic":false,"types":["kintsugi_runtime_parachain::Origin"]}];
+implementors["testnet_runtime_parachain"] = [{"text":"impl OriginTrait for <a class=\"struct\" href=\"testnet_runtime_parachain/struct.Origin.html\" title=\"struct testnet_runtime_parachain::Origin\">Origin</a>","synthetic":false,"types":["testnet_runtime_parachain::Origin"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

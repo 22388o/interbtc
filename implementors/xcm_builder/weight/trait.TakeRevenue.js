@@ -1,0 +1,4 @@
+(function() {var implementors = {};
+implementors["kintsugi_runtime_parachain"] = [{"text":"impl TakeRevenue for <a class=\"struct\" href=\"kintsugi_runtime_parachain/struct.ToTreasury.html\" title=\"struct kintsugi_runtime_parachain::ToTreasury\">ToTreasury</a>","synthetic":false,"types":["kintsugi_runtime_parachain::ToTreasury"]}];
+implementors["testnet_runtime_parachain"] = [{"text":"impl TakeRevenue for <a class=\"struct\" href=\"testnet_runtime_parachain/struct.ToTreasury.html\" title=\"struct testnet_runtime_parachain::ToTreasury\">ToTreasury</a>","synthetic":false,"types":["testnet_runtime_parachain::ToTreasury"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

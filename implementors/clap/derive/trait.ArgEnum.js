@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["interbtc_parachain"] = [{"text":"impl ArgEnum for <a class=\"enum\" href=\"interbtc_parachain/cli/enum.RuntimeName.html\" title=\"enum interbtc_parachain::cli::RuntimeName\">RuntimeName</a>","synthetic":false,"types":["interbtc_parachain::cli::RuntimeName"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

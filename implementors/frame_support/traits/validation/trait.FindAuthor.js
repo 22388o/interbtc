@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["kintsugi_runtime_parachain"] = [{"text":"impl FindAuthor&lt;&lt;&lt;MultiSignature as Verify&gt;::Signer as IdentifyAccount&gt;::AccountId&gt; for <a class=\"struct\" href=\"kintsugi_runtime_parachain/struct.AuraAccountAdapter.html\" title=\"struct kintsugi_runtime_parachain::AuraAccountAdapter\">AuraAccountAdapter</a>","synthetic":false,"types":["kintsugi_runtime_parachain::AuraAccountAdapter"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

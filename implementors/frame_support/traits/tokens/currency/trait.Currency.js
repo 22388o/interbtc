@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["escrow"] = [{"text":"impl&lt;T:&nbsp;<a class=\"trait\" href=\"escrow/pallet/trait.Config.html\" title=\"trait escrow::pallet::Config\">Config</a>&gt; Currency&lt;&lt;T as Config&gt;::AccountId&gt; for <a class=\"struct\" href=\"escrow/pallet/struct.Pallet.html\" title=\"struct escrow::pallet::Pallet\">Pallet</a>&lt;T&gt;","synthetic":false,"types":["escrow::pallet::Pallet"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

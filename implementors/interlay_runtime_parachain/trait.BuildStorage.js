@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["interlay_runtime_parachain"] = [{"text":"impl <a class=\"trait\" href=\"interlay_runtime_parachain/trait.BuildStorage.html\" title=\"trait interlay_runtime_parachain::BuildStorage\">BuildStorage</a> for <a class=\"struct\" href=\"interlay_runtime_parachain/struct.GenesisConfig.html\" title=\"struct interlay_runtime_parachain::GenesisConfig\">GenesisConfig</a>","synthetic":false,"types":["interlay_runtime_parachain::GenesisConfig"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

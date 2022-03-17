@@ -1,0 +1,6 @@
+(function() {var implementors = {};
+implementors["interbtc_runtime_standalone"] = [{"text":"impl GetCallMetadata for <a class=\"enum\" href=\"interbtc_runtime_standalone/enum.Call.html\" title=\"enum interbtc_runtime_standalone::Call\">Call</a>","synthetic":false,"types":["interbtc_runtime_standalone::Call"]}];
+implementors["interlay_runtime_parachain"] = [{"text":"impl GetCallMetadata for <a class=\"enum\" href=\"interlay_runtime_parachain/enum.Call.html\" title=\"enum interlay_runtime_parachain::Call\">Call</a>","synthetic":false,"types":["interlay_runtime_parachain::Call"]}];
+implementors["kintsugi_runtime_parachain"] = [{"text":"impl GetCallMetadata for <a class=\"enum\" href=\"kintsugi_runtime_parachain/enum.Call.html\" title=\"enum kintsugi_runtime_parachain::Call\">Call</a>","synthetic":false,"types":["kintsugi_runtime_parachain::Call"]}];
+implementors["testnet_runtime_parachain"] = [{"text":"impl GetCallMetadata for <a class=\"enum\" href=\"testnet_runtime_parachain/enum.Call.html\" title=\"enum testnet_runtime_parachain::Call\">Call</a>","synthetic":false,"types":["testnet_runtime_parachain::Call"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

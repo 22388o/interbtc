@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Error",""]],"mod":[["gen_client","The generated client module."]],"struct":[["VaultRegistry","A struct that implements the [`VaultRegistryApi`]."],["VaultRegistryApiClient","The Client."],["VaultRegistryClient","The Client."]],"trait":[["VaultRegistryApi",""],["VaultRegistryRuntimeApi",""]]});

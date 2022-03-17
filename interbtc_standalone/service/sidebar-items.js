@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["new_full","Builds a new service for a full client."],["new_partial",""]],"struct":[["Executor",""]],"type":[["FullBackend",""],["FullClient",""]]});

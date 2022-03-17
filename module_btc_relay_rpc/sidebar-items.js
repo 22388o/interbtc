@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Error",""]],"mod":[["gen_client","The generated client module."]],"struct":[["BtcRelay","A struct that implements the [`BtcRelayApi`]."],["BtcRelayApiClient","The Client."],["RefundClient","The Client."]],"trait":[["BtcRelayApi",""],["BtcRelayRuntimeApi",""]]});

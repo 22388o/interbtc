@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["interbtc_runtime_standalone"] = [{"text":"impl <a class=\"trait\" href=\"interbtc_runtime_standalone/trait.FindAuthor.html\" title=\"trait interbtc_runtime_standalone::FindAuthor\">FindAuthor</a>&lt;&lt;&lt;MultiSignature as Verify&gt;::Signer as IdentifyAccount&gt;::AccountId&gt; for <a class=\"struct\" href=\"interbtc_runtime_standalone/struct.AuraAccountAdapter.html\" title=\"struct interbtc_runtime_standalone::AuraAccountAdapter\">AuraAccountAdapter</a>","synthetic":false,"types":["interbtc_runtime_standalone::AuraAccountAdapter"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
